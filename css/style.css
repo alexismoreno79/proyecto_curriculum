@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+    
+ul {
+    list-style-type: none;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div.headerSitio1{
+    background-color: floralwhite;
+    padding: 20px;
+}
+
+div.mainDatos, main.mainResto {
+    background-color: floralwhite;
+    padding: 60px;
+}
+
+div.seccion1Datos {
+    display: flex;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+div.seccion1Inicio1 {
+    width: 70%;
+    padding-left: 200px;
+}
+div.seccion1Inicio2 {
+    width: 30%;
+}
+section.mainTrabajoActual {
+    height: 100vh;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+div.mainTitulos {
+    width: 100%;
+}
+img.titulo {
+    margin: 20px;
+    width: 100%;
+}
